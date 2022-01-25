@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand img{
+   width: 100px;
+   height: 40px;
+   margin-left: 2rem;
+   margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-toggler{
+    margin-right: 1rem;
+}
+.nav-link{
+    margin-right: 3rem;
+}
+/*-----------Carousel-------------------*/
+
