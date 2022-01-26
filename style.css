@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -21,4 +23,42 @@
 /*-----------Carousel-------------------*/
 .carousel-item{
     height: 490px;
+}
+#mainSlider .carousel-caption{
+    top: 25%;
+}
+#mainSlider .carousel-caption #titulo{
+    color: whitesmoke;
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 40%;
+    text-shadow: violet 2px 2px 2px;
+}
+#mainSlider .carousel-caption .sub-titulo{
+    color: whitesmoke;
+    font-size: 5rem;
+    font-family: 'Neonderthaw', cursive;
+    text-shadow: violet 2px 2px 2px;
+    
+}
+.t1{
+    font-size: 100px;
+    color: violet;
+}
+#mainSlider .carousel-caption #titulo1{
+    color: whitesmoke;
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 50%;
+    text-shadow: rgb(18, 18, 19) 2px 2px 2px;
+    text-align: left;
+}
+#mainSlider .carousel-caption .sub-titulo1{
+    color: rgb(7, 7, 7);
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.t2{
+    font-size: 100px;
 }
