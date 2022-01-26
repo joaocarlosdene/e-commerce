@@ -19,4 +19,6 @@
     margin-right: 3rem;
 }
 /*-----------Carousel-------------------*/
-
+.carousel-item{
+    height: 490px;
+}
